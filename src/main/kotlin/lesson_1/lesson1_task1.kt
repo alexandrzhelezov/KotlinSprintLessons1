@@ -1,7 +1,8 @@
 package org.example.lesson_1
 
 fun main() {
-    println("Тестовое решение к 1 задаче 1 урока")
-    println("Внесение изменений")
+
+    var countOfOrders: Int = 75
+    val appreciationText: String = "Благодарим за покупку"
 
 }
